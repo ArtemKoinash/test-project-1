@@ -1,5 +1,5 @@
 # test-project-1
-asdf test project one
+AWT test project one
 print "Hello world"
 sdf
 dfkjghdsdf
