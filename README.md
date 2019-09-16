@@ -1,7 +1,6 @@
 # test-project-1
-AWT test project one
+AWT try to make conflict test project one
 print "Hello world"
 sdf
 dfkjghd123
 dfkbvdk
-
